@@ -1,0 +1,225 @@
+body {
+    
+background-color: lavender;
+}
+
+#main_div{
+    color: rgb(4, 245, 245);
+    font-family: 'Lobster', cursive;
+    font-size: 500px;
+    font-weight: bold;
+    background-color: rgb(255, 255, 255);
+}
+
+#main_div img{
+    height: 100px;
+    width: 115px;
+    border-radius: 30px;
+}
+
+#my1{
+    background-color: lavender;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+}
+
+#my1 label{
+    font-family: 'Big Shoulders Stencil Display', cursive;
+    background-color: white;
+    width: 310px;
+    font-size: 30px;
+    padding: 12px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px whitesmoke;
+}
+
+#pic {
+    border: 2px solid white;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px whitesmoke;
+}
+
+#my1 button{
+    width: 310px;
+   font-size: 30px;
+   box-shadow: 5px 5px 18px whitesmoke;
+   border: white 1px solid;
+}
+
+#photo{
+    height: 100px;
+    width: 115px;
+}
+
+#my2{
+    background-color: lavender;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+}
+
+#m2 label{
+    font-family: 'Big Shoulders Stencil Display', cursive;
+    background-color: white;
+    width: 310px;
+    font-size: 30px;
+    padding: 12px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px whitesmoke;
+}
+
+#my2 button{
+    width: 310px;
+   font-size: 30px;
+   box-shadow: 5px 5px 18px whitesmoke;
+   border: white 1px solid;
+}
+
+#img_logo{
+    height: 100px;
+    width: 115px;
+}
+
+#my3{
+    background-color: lavender;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+}
+
+#my3 label{
+    font-family: 'Big Shoulders Stencil Display', cursive;
+    background-color: white;
+    width: 310px;
+    font-size: 30px;
+    padding: 12px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px whitesmoke;
+}
+
+#my3 button{
+    width: 310px;
+   font-size: 30px;
+   box-shadow: 5px 5px 18px whitesmoke;
+   border: white 1px solid;
+}
+
+#my4{
+    background-color: lavender;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+}
+
+#my4 label{
+    font-family: 'Big Shoulders Stencil Display', cursive;
+    background-color: white;
+    width: 310px;
+    font-size: 30px;
+    padding: 12px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px whitesmoke;
+}
+
+#my4 button{
+    width: 310px;
+   font-size: 30px;
+   box-shadow: 5px 5px 18px whitesmoke;
+   border: white 1px solid;
+}
+
+#my5{
+    background-color: lavender;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+}
+
+#my5 label{
+    font-family: 'Big Shoulders Stencil Display', cursive;
+    background-color: white;
+    width: 310px;
+    font-size: 30px;
+    padding: 12px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px whitesmoke;
+}
+
+#my5 button{
+    width: 310px;
+   font-size: 30px;
+   box-shadow: 5px 5px 18px whitesmoke;
+   border: white 1px solid;
+}
+
+#my1{
+    background-color: lavender;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+}
+
+#my1 label{
+    font-family: 'Big Shoulders Stencil Display', cursive;
+    background-color: white;
+    width: 310px;
+    font-size: 30px;
+    padding: 12px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px whitesmoke;
+}
+
+#my1 button{
+    width: 310px;
+   font-size: 30px;
+   box-shadow: 5px 5px 18px whitesmoke;
+   border: white 1px solid;
+}
+
+
+
+#my2{
+    background-color: lavender;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+}
+
+#my2 label{
+    font-family: 'Big Shoulders Stencil Display', cursive;
+    background-color: white;
+    width: 310px;
+    font-size: 30px;
+    padding: 12px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px whitesmoke;
+}
+
+#my2 button{
+    width: 310px;
+   font-size: 30px;
+   box-shadow: 5px 5px 18px whitesmoke;
+   border: white 1px solid;
+}
+
+#picmain{
+    height: 300px;
+    width: 310px;
+}
+
+#output{
+    font-family: 'Pacifico', cursive;
+}
+
+#intro{
+    font-family: 'Lobster', cursive;
+    font-size: 50px;
+    color: aqua;
+}
+
+h3{
+    color: rgb(25, 0, 255);
+    background-color: white;
+}
